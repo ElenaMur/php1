@@ -21,5 +21,4 @@ elseif ($a < 0 && $b < 0 ) {
 else {
     echo $a + $b;
 }
-
 ?>

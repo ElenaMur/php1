@@ -27,5 +27,5 @@ if($h == 00 || ($h >= 05 && $h <= 20)) {
 $currH = date("H");
 $currM = date("m");
 echo "Текущее время: ".CurrentTimeRU($currH, $currM); 
-    
+
 ?>

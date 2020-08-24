@@ -35,5 +35,4 @@ mathOperation(5, 6, 'Summation'); echo '<br>';
 mathOperation(5, 6, 'Subtraction'); echo '<br>';
 mathOperation(5, 6, 'Multiplication'); echo '<br>';
 mathOperation(5, 6, 'Division'); echo '<br>';
-
 ?>

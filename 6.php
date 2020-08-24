@@ -12,7 +12,7 @@ function power($val, $pow) {
         return power(1/$val, -$pow); 
     }
 }
-    
+
 //проверка
 echo power(2, 3).'<br>';
 echo power(2, -2).'<br>';
